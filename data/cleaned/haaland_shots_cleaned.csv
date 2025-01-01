@@ -1,0 +1,318 @@
+minute,result,X,Y,xG,player,situation,season,shotType,date,player_assisted,lastAction,time,squad,opponent,venue,GF,GA
+20,MissedShots,0.9359999847412108,0.5029999923706054,0.4840849936008453,Erling Haaland,OpenPlay,2022,Head,2022-08-07,Phil Foden,Cross,15:30:00,Manchester City,West Ham,Away,2,0
+35,Goal,0.885,0.5,0.7611690163612366,Erling Haaland,Penalty,2022,LeftFoot,2022-08-07,,Standard,15:30:00,Manchester City,West Ham,Away,2,0
+64,Goal,0.8640000152587891,0.405,0.3280529975891113,Erling Haaland,OpenPlay,2022,LeftFoot,2022-08-07,Kevin De Bruyne,Throughball,15:30:00,Manchester City,West Ham,Away,2,0
+69,MissedShots,0.953000030517578,0.5520000076293945,0.5266079902648926,Erling Haaland,OpenPlay,2022,Head,2022-08-07,Jack Grealish,Chipped,15:30:00,Manchester City,West Ham,Away,2,0
+75,BlockedShot,0.894000015258789,0.71,0.0664428025484085,Erling Haaland,OpenPlay,2022,LeftFoot,2022-08-07,Ilkay Gündogan,Pass,15:30:00,Manchester City,West Ham,Away,2,0
+44,SavedShot,0.933000030517578,0.7069999694824218,0.0845462009310722,Erling Haaland,OpenPlay,2022,LeftFoot,2022-08-13,João Cancelo,Chipped,14:00:00,Manchester City,Bournemouth,Home,4,0
+72,MissedShots,0.905,0.575,0.1366350054740905,Erling Haaland,OpenPlay,2022,LeftFoot,2022-08-13,Jack Grealish,Pass,14:00:00,Manchester City,Bournemouth,Home,4,0
+51,SavedShot,0.8219999694824218,0.605999984741211,0.0556261986494064,Erling Haaland,OpenPlay,2022,RightFoot,2022-08-21,Rúben Dias,TakeOn,15:30:00,Manchester City,Newcastle United,Away,3,3
+59,Goal,0.9669999694824218,0.5670000076293945,0.5415260195732117,Erling Haaland,FromCorner,2022,LeftFoot,2022-08-21,Rodri,Pass,15:30:00,Manchester City,Newcastle United,Away,3,3
+61,SavedShot,0.865999984741211,0.4429999923706054,0.3397890031337738,Erling Haaland,OpenPlay,2022,LeftFoot,2022-08-21,Kevin De Bruyne,Throughball,15:30:00,Manchester City,Newcastle United,Away,3,3
+77,MissedShots,0.955999984741211,0.5609999847412109,0.580489993095398,Erling Haaland,OpenPlay,2022,LeftFoot,2022-08-21,,,15:30:00,Manchester City,Newcastle United,Away,3,3
+12,MissedShots,0.919000015258789,0.434000015258789,0.0238604005426168,Erling Haaland,FromCorner,2022,Head,2022-08-27,Riyad Mahrez,Aerial,14:00:00,Manchester City,Crystal Palace,Home,4,2
+22,MissedShots,0.9719999694824218,0.72,0.0842804983258247,Erling Haaland,OpenPlay,2022,LeftFoot,2022-08-27,Phil Foden,Throughball,14:00:00,Manchester City,Crystal Palace,Home,4,2
+31,MissedShots,0.9059999847412108,0.595999984741211,0.0427360013127327,Erling Haaland,OpenPlay,2022,Head,2022-08-27,,Aerial,14:00:00,Manchester City,Crystal Palace,Home,4,2
+61,Goal,0.95,0.5,0.4691109955310821,Erling Haaland,OpenPlay,2022,Head,2022-08-27,Phil Foden,Chipped,14:00:00,Manchester City,Crystal Palace,Home,4,2
+69,Goal,0.973000030517578,0.5629999923706055,0.5720340013504028,Erling Haaland,FromCorner,2022,LeftFoot,2022-08-27,John Stones,Rebound,14:00:00,Manchester City,Crystal Palace,Home,4,2
+72,MissedShots,0.8719999694824219,0.5179999923706055,0.0559226982295513,Erling Haaland,OpenPlay,2022,Head,2022-08-27,Phil Foden,Cross,14:00:00,Manchester City,Crystal Palace,Home,4,2
+80,Goal,0.875999984741211,0.5159999847412109,0.3726620078086853,Erling Haaland,OpenPlay,2022,LeftFoot,2022-08-27,Ilkay Gündogan,Pass,14:00:00,Manchester City,Crystal Palace,Home,4,2
+11,Goal,0.950999984741211,0.5120000076293946,0.5539680123329163,Erling Haaland,FromCorner,2022,LeftFoot,2022-08-31,Phil Foden,Cross,18:30:00,Manchester City,Nottingham Forest,Home,6,0
+22,Goal,0.92,0.4579999923706054,0.492141991853714,Erling Haaland,OpenPlay,2022,RightFoot,2022-08-31,,Dispossessed,18:30:00,Manchester City,Nottingham Forest,Home,6,0
+29,MissedShots,0.9009999847412108,0.5629999923706055,0.071619302034378,Erling Haaland,SetPiece,2022,Head,2022-08-31,Ilkay Gündogan,Cross,18:30:00,Manchester City,Nottingham Forest,Home,6,0
+37,Goal,0.980999984741211,0.4759999847412109,0.6953009963035583,Erling Haaland,FromCorner,2022,Head,2022-08-31,John Stones,HeadPass,18:30:00,Manchester City,Nottingham Forest,Home,6,0
+49,Goal,0.9790000152587892,0.5479999923706055,0.5999889969825745,Erling Haaland,OpenPlay,2022,LeftFoot,2022-09-03,Kevin De Bruyne,Cross,16:30:00,Manchester City,Aston Villa,Away,1,1
+63,SavedShot,0.9,0.4220000076293945,0.1396719962358474,Erling Haaland,OpenPlay,2022,LeftFoot,2022-09-03,,TakeOn,16:30:00,Manchester City,Aston Villa,Away,1,1
+67,SavedShot,0.86,0.505,0.1190610006451606,Erling Haaland,OpenPlay,2022,RightFoot,2022-09-03,Kevin De Bruyne,Pass,16:30:00,Manchester City,Aston Villa,Away,1,1
+15,Goal,0.8030000305175782,0.5320000076293945,0.0618061982095241,Erling Haaland,OpenPlay,2022,RightFoot,2022-09-17,Bernardo Silva,Pass,11:30:00,Manchester City,Wolverhampton Wanderers,Away,3,0
+66,SavedShot,0.8190000152587891,0.4979999923706055,0.0883169993758201,Erling Haaland,OpenPlay,2022,RightFoot,2022-09-17,Jack Grealish,Pass,11:30:00,Manchester City,Wolverhampton Wanderers,Away,3,0
+2,MissedShots,0.9590000152587892,0.4,0.038850300014019,Erling Haaland,OpenPlay,2022,Head,2022-10-02,Bernardo Silva,Chipped,13:00:00,Manchester City,Manchester United,Home,6,3
+33,Goal,0.9490000152587892,0.4859999847412109,0.0770685970783233,Erling Haaland,FromCorner,2022,Head,2022-10-02,Kevin De Bruyne,Aerial,13:00:00,Manchester City,Manchester United,Home,6,3
+36,Goal,0.9640000152587892,0.5590000152587891,0.5460309982299805,Erling Haaland,OpenPlay,2022,LeftFoot,2022-10-02,Kevin De Bruyne,Chipped,13:00:00,Manchester City,Manchester United,Home,6,3
+63,MissedShots,0.905,0.6680000305175782,0.1355970054864883,Erling Haaland,OpenPlay,2022,LeftFoot,2022-10-02,Bernardo Silva,Throughball,13:00:00,Manchester City,Manchester United,Home,6,3
+63,Goal,0.91,0.5,0.1415430009365081,Erling Haaland,OpenPlay,2022,LeftFoot,2022-10-02,Sergio Gómez,Cross,13:00:00,Manchester City,Manchester United,Home,6,3
+75,BlockedShot,0.8869999694824219,0.6630000305175782,0.0824263021349906,Erling Haaland,OpenPlay,2022,LeftFoot,2022-10-02,Cole Palmer,Pass,13:00:00,Manchester City,Manchester United,Home,6,3
+13,ShotOnPost,0.8440000152587891,0.4070000076293945,0.3033739924430847,Erling Haaland,OpenPlay,2022,RightFoot,2022-10-08,Phil Foden,Throughball,14:00:00,Manchester City,Southampton,Home,4,0
+28,BlockedShot,0.899000015258789,0.355,0.0557863004505634,Erling Haaland,FromCorner,2022,LeftFoot,2022-10-08,,,14:00:00,Manchester City,Southampton,Home,4,0
+38,BlockedShot,0.850999984741211,0.5690000152587891,0.1116089969873428,Erling Haaland,OpenPlay,2022,RightFoot,2022-10-08,Kevin De Bruyne,Pass,14:00:00,Manchester City,Southampton,Home,4,0
+51,MissedShots,0.8719999694824219,0.549000015258789,0.1190560013055801,Erling Haaland,OpenPlay,2022,LeftFoot,2022-10-08,Phil Foden,Cross,14:00:00,Manchester City,Southampton,Home,4,0
+64,Goal,0.8969999694824219,0.5690000152587891,0.1388670057058334,Erling Haaland,OpenPlay,2022,LeftFoot,2022-10-08,João Cancelo,Pass,14:00:00,Manchester City,Southampton,Home,4,0
+14,BlockedShot,0.85,0.705,0.0286890007555484,Erling Haaland,OpenPlay,2022,LeftFoot,2022-10-16,Rodri,Chipped,15:30:00,Manchester City,Liverpool,Away,0,1
+32,SavedShot,0.8880000305175781,0.7390000152587891,0.0313839018344879,Erling Haaland,OpenPlay,2022,LeftFoot,2022-10-16,Ilkay Gündogan,Pass,15:30:00,Manchester City,Liverpool,Away,0,1
+34,MissedShots,0.926999969482422,0.5409999847412109,0.0615562982857227,Erling Haaland,OpenPlay,2022,Head,2022-10-16,Kevin De Bruyne,Aerial,15:30:00,Manchester City,Liverpool,Away,0,1
+39,SavedShot,0.955,0.5990000152587891,0.258199006319046,Erling Haaland,OpenPlay,2022,Head,2022-10-16,Kevin De Bruyne,Chipped,15:30:00,Manchester City,Liverpool,Away,0,1
+63,SavedShot,0.8490000152587891,0.4909999847412109,0.0962399989366531,Erling Haaland,OpenPlay,2022,LeftFoot,2022-10-16,Ilkay Gündogan,Pass,15:30:00,Manchester City,Liverpool,Away,0,1
+95,SavedShot,0.916999969482422,0.4559999847412109,0.07673130184412,Erling Haaland,OpenPlay,2022,OtherBodyPart,2022-10-16,Kevin De Bruyne,Cross,15:30:00,Manchester City,Liverpool,Away,0,1
+21,Goal,0.92,0.3559999847412109,0.2855649888515472,Erling Haaland,OpenPlay,2022,RightFoot,2022-10-22,Ederson,Chipped,14:00:00,Manchester City,Brighton,Home,3,1
+42,Goal,0.885,0.5,0.7611690163612366,Erling Haaland,Penalty,2022,LeftFoot,2022-10-22,,Standard,14:00:00,Manchester City,Brighton,Home,3,1
+70,BlockedShot,0.8819999694824219,0.5920000076293945,0.0946168974041938,Erling Haaland,OpenPlay,2022,RightFoot,2022-10-22,,,14:00:00,Manchester City,Brighton,Home,3,1
+68,MissedShots,0.9640000152587892,0.64,0.0459613986313343,Erling Haaland,OpenPlay,2022,LeftFoot,2022-11-05,John Stones,Cross,15:00:00,Manchester City,Fulham,Home,2,1
+83,BlockedShot,0.91,0.68,0.1144860014319419,Erling Haaland,OpenPlay,2022,RightFoot,2022-11-05,Kevin De Bruyne,Throughball,15:00:00,Manchester City,Fulham,Home,2,1
+88,BlockedShot,0.9259999847412108,0.445,0.0579763986170291,Erling Haaland,OpenPlay,2022,Head,2022-11-05,Kevin De Bruyne,Aerial,15:00:00,Manchester City,Fulham,Home,2,1
+94,Goal,0.885,0.5,0.7611690163612366,Erling Haaland,Penalty,2022,LeftFoot,2022-11-05,,Standard,15:00:00,Manchester City,Fulham,Home,2,1
+9,BlockedShot,0.845,0.6630000305175782,0.046824499964714,Erling Haaland,OpenPlay,2022,LeftFoot,2022-11-12,Phil Foden,Pass,12:30:00,Manchester City,Brentford,Home,1,2
+0,SavedShot,0.825999984741211,0.6980000305175781,0.0346244014799594,Erling Haaland,OpenPlay,2022,LeftFoot,2022-12-28,Nathan Aké,Chipped,20:00:00,Manchester City,Leeds,Away,3,1
+3,MissedShots,0.8809999847412109,0.409000015258789,0.0756651982665062,Erling Haaland,SetPiece,2022,LeftFoot,2022-12-28,Riyad Mahrez,Chipped,20:00:00,Manchester City,Leeds,Away,3,1
+30,SavedShot,0.8380000305175781,0.46,0.33365398645401,Erling Haaland,OpenPlay,2022,LeftFoot,2022-12-28,Kevin De Bruyne,Throughball,20:00:00,Manchester City,Leeds,Away,3,1
+31,MissedShots,0.8909999847412109,0.495,0.0659449025988578,Erling Haaland,FromCorner,2022,Head,2022-12-28,Riyad Mahrez,Cross,20:00:00,Manchester City,Leeds,Away,3,1
+50,Goal,0.8869999694824219,0.54,0.399509996175766,Erling Haaland,OpenPlay,2022,LeftFoot,2022-12-28,Jack Grealish,Pass,20:00:00,Manchester City,Leeds,Away,3,1
+63,Goal,0.8869999694824219,0.5690000152587891,0.135465994477272,Erling Haaland,OpenPlay,2022,RightFoot,2022-12-28,Jack Grealish,Pass,20:00:00,Manchester City,Leeds,Away,3,1
+77,SavedShot,0.8519999694824218,0.5,0.4416149854660034,Erling Haaland,OpenPlay,2022,RightFoot,2022-12-28,Rodri,Throughball,20:00:00,Manchester City,Leeds,Away,3,1
+91,BlockedShot,0.865999984741211,0.5159999847412109,0.0911130011081695,Erling Haaland,OpenPlay,2022,RightFoot,2022-12-28,,Rebound,20:00:00,Manchester City,Leeds,Away,3,1
+10,MissedShots,0.985999984741211,0.66,0.3060060143470764,Erling Haaland,OpenPlay,2022,LeftFoot,2022-12-31,Kevin De Bruyne,Throughball,15:00:00,Manchester City,Everton,Home,1,1
+23,Goal,0.925,0.51,0.5327680110931396,Erling Haaland,OpenPlay,2022,RightFoot,2022-12-31,Riyad Mahrez,Pass,15:00:00,Manchester City,Everton,Home,1,1
+37,MissedShots,0.874000015258789,0.385,0.0866618975996971,Erling Haaland,OpenPlay,2022,LeftFoot,2023-01-05,Ilkay Gündogan,Pass,20:00:00,Manchester City,Chelsea,Away,1,0
+47,MissedShots,0.775,0.4829999923706055,0.0337704010307788,Erling Haaland,OpenPlay,2022,LeftFoot,2023-01-05,,BallRecovery,20:00:00,Manchester City,Chelsea,Away,1,0
+72,MissedShots,0.9590000152587892,0.5820000076293945,0.4589230120182037,Erling Haaland,OpenPlay,2022,LeftFoot,2023-01-05,Kevin De Bruyne,Pass,20:00:00,Manchester City,Chelsea,Away,1,0
+22,BlockedShot,0.8480000305175781,0.4520000076293945,0.0671859011054039,Erling Haaland,OpenPlay,2022,LeftFoot,2023-01-14,,,12:30:00,Manchester City,Manchester United,Away,1,2
+86,MissedShots,0.875,0.5459999847412109,0.0395084992051124,Erling Haaland,OpenPlay,2022,Head,2023-01-14,João Cancelo,Cross,12:30:00,Manchester City,Manchester United,Away,1,2
+41,SavedShot,0.9,0.6509999847412109,0.1202609986066818,Erling Haaland,OpenPlay,2022,LeftFoot,2023-01-19,Nathan Aké,Throughball,19:00:00,Manchester City,Tottenham,Home,4,2
+42,MissedShots,0.916999969482422,0.5279999923706055,0.43265300989151,Erling Haaland,OpenPlay,2022,Head,2023-01-19,Rodri,Aerial,19:00:00,Manchester City,Tottenham,Home,4,2
+52,Goal,0.968000030517578,0.5159999847412109,0.5429559946060181,Erling Haaland,OpenPlay,2022,Head,2023-01-19,Riyad Mahrez,HeadPass,19:00:00,Manchester City,Tottenham,Home,4,2
+18,SavedShot,0.9059999847412108,0.600999984741211,0.1097719967365264,Erling Haaland,OpenPlay,2022,LeftFoot,2023-01-22,Kevin De Bruyne,Pass,14:00:00,Manchester City,Wolverhampton Wanderers,Home,3,0
+39,Goal,0.931999969482422,0.5279999923706055,0.4696820080280304,Erling Haaland,OpenPlay,2022,Head,2023-01-22,Kevin De Bruyne,Aerial,14:00:00,Manchester City,Wolverhampton Wanderers,Home,3,0
+49,Goal,0.885,0.5,0.7611690163612366,Erling Haaland,Penalty,2022,LeftFoot,2023-01-22,,Standard,14:00:00,Manchester City,Wolverhampton Wanderers,Home,3,0
+53,Goal,0.915,0.534000015258789,0.53855299949646,Erling Haaland,OpenPlay,2022,LeftFoot,2023-01-22,Riyad Mahrez,Pass,14:00:00,Manchester City,Wolverhampton Wanderers,Home,3,0
+20,MissedShots,0.941999969482422,0.4559999847412109,0.5382140278816223,Erling Haaland,FromCorner,2022,LeftFoot,2023-02-12,,Rebound,16:30:00,Manchester City,Aston Villa,Home,3,1
+44,BlockedShot,0.875,0.3879999923706054,0.0763150975108146,Erling Haaland,OpenPlay,2022,LeftFoot,2023-02-15,Jack Grealish,BallTouch,18:30:00,Manchester City,Arsenal,Away,3,1
+68,SavedShot,0.95,0.3420000076293945,0.3033350110054016,Erling Haaland,OpenPlay,2022,RightFoot,2023-02-15,Bernardo Silva,Pass,18:30:00,Manchester City,Arsenal,Away,3,1
+81,Goal,0.906999969482422,0.4370000076293945,0.406495988368988,Erling Haaland,OpenPlay,2022,RightFoot,2023-02-15,Kevin De Bruyne,Pass,18:30:00,Manchester City,Arsenal,Away,3,1
+66,ShotOnPost,0.9159999847412108,0.5670000076293945,0.4130020141601562,Erling Haaland,OpenPlay,2022,LeftFoot,2023-02-18,,Rebound,15:00:00,Manchester City,Nottingham Forest,Away,1,1
+66,MissedShots,0.9469999694824218,0.4929999923706055,0.6549550294876099,Erling Haaland,OpenPlay,2022,LeftFoot,2023-02-18,,Rebound,15:00:00,Manchester City,Nottingham Forest,Away,1,1
+14,BlockedShot,0.906999969482422,0.4279999923706055,0.1322219967842102,Erling Haaland,OpenPlay,2022,RightFoot,2023-02-25,Phil Foden,TakeOn,17:30:00,Manchester City,Bournemouth,Away,4,1
+20,BlockedShot,0.931999969482422,0.6980000305175781,0.1328469961881637,Erling Haaland,OpenPlay,2022,LeftFoot,2023-02-25,Julián Álvarez,Throughball,17:30:00,Manchester City,Bournemouth,Away,4,1
+28,Goal,0.9669999694824218,0.5509999847412109,0.6841059923171997,Erling Haaland,OpenPlay,2022,LeftFoot,2023-02-25,Phil Foden,Pass,17:30:00,Manchester City,Bournemouth,Away,4,1
+33,MissedShots,0.9459999847412108,0.4559999847412109,0.1113120019435882,Erling Haaland,OpenPlay,2022,Head,2023-03-04,Kevin De Bruyne,Aerial,12:30:00,Manchester City,Newcastle United,Home,2,0
+59,MissedShots,0.8830000305175781,0.6580000305175782,0.071364901959896,Erling Haaland,OpenPlay,2022,LeftFoot,2023-03-04,Kevin De Bruyne,Chipped,12:30:00,Manchester City,Newcastle United,Home,2,0
+18,BlockedShot,0.7959999847412109,0.4329999923706055,0.0417568013072013,Erling Haaland,OpenPlay,2022,LeftFoot,2023-03-11,Rodri,Pass,17:30:00,Manchester City,Crystal Palace,Away,1,0
+27,MissedShots,0.926999969482422,0.505,0.5641909837722778,Erling Haaland,OpenPlay,2022,LeftFoot,2023-03-11,Nathan Aké,Pass,17:30:00,Manchester City,Crystal Palace,Away,1,0
+31,BlockedShot,0.8630000305175781,0.3279999923706054,0.0461351014673709,Erling Haaland,OpenPlay,2022,LeftFoot,2023-03-11,Phil Foden,Pass,17:30:00,Manchester City,Crystal Palace,Away,1,0
+77,Goal,0.885,0.5,0.7611690163612366,Erling Haaland,Penalty,2022,LeftFoot,2023-03-11,,Standard,17:30:00,Manchester City,Crystal Palace,Away,1,0
+82,MissedShots,0.9130000305175782,0.4679999923706054,0.1270740032196045,Erling Haaland,OpenPlay,2022,Head,2023-03-11,Jack Grealish,Cross,17:30:00,Manchester City,Crystal Palace,Away,1,0
+40,MissedShots,0.978000030517578,0.4279999923706055,0.0756613984704017,Erling Haaland,OpenPlay,2022,Head,2023-04-08,,Aerial,16:30:00,Manchester City,Southampton,Away,4,1
+44,Goal,0.9519999694824218,0.4959999847412109,0.5902569890022278,Erling Haaland,OpenPlay,2022,Head,2023-04-08,Kevin De Bruyne,Cross,16:30:00,Manchester City,Southampton,Away,4,1
+67,Goal,0.9280000305175782,0.4509999847412109,0.4686369895935058,Erling Haaland,OpenPlay,2022,LeftFoot,2023-04-08,Jack Grealish,Chipped,16:30:00,Manchester City,Southampton,Away,4,1
+9,MissedShots,0.9259999847412108,0.5670000076293945,0.1252879947423935,Erling Haaland,FromCorner,2022,LeftFoot,2023-04-15,Riyad Mahrez,Rebound,16:30:00,Manchester City,Leicester,Home,3,1
+12,Goal,0.885,0.5,0.7611690163612366,Erling Haaland,Penalty,2022,LeftFoot,2023-04-15,,Standard,16:30:00,Manchester City,Leicester,Home,3,1
+24,Goal,0.875999984741211,0.605,0.3326219916343689,Erling Haaland,OpenPlay,2022,LeftFoot,2023-04-15,Kevin De Bruyne,Pass,16:30:00,Manchester City,Leicester,Home,3,1
+27,SavedShot,0.895,0.4370000076293945,0.4068420231342315,Erling Haaland,OpenPlay,2022,LeftFoot,2023-04-26,Kevin De Bruyne,TakeOn,19:00:00,Manchester City,Arsenal,Home,4,1
+31,SavedShot,0.9390000152587892,0.7069999694824218,0.061109434813261,Erling Haaland,OpenPlay,2022,LeftFoot,2023-04-26,Jack Grealish,Chipped,19:00:00,Manchester City,Arsenal,Home,4,1
+35,MissedShots,0.8490000152587891,0.5379999923706055,0.1310934275388717,Erling Haaland,OpenPlay,2022,LeftFoot,2023-04-26,Jack Grealish,Pass,19:00:00,Manchester City,Arsenal,Home,4,1
+40,SavedShot,0.9130000305175782,0.5879999923706055,0.1295050978660583,Erling Haaland,OpenPlay,2022,LeftFoot,2023-04-26,Ilkay Gündogan,Pass,19:00:00,Manchester City,Arsenal,Home,4,1
+52,SavedShot,0.8380000305175781,0.4779999923706055,0.2996329665184021,Erling Haaland,OpenPlay,2022,LeftFoot,2023-04-26,Rúben Dias,Chipped,19:00:00,Manchester City,Arsenal,Home,4,1
+94,Goal,0.860999984741211,0.4959999847412109,0.1210688054561615,Erling Haaland,OpenPlay,2022,LeftFoot,2023-04-26,Phil Foden,Pass,19:00:00,Manchester City,Arsenal,Home,4,1
+2,Goal,0.885,0.5,0.7611688375473022,Erling Haaland,Penalty,2022,LeftFoot,2023-04-30,,Standard,13:00:00,Manchester City,Fulham,Away,2,1
+25,MissedShots,0.991999969482422,0.354000015258789,0.053700678050518,Erling Haaland,OpenPlay,2022,RightFoot,2023-04-30,Riyad Mahrez,Chipped,13:00:00,Manchester City,Fulham,Away,2,1
+47,SavedShot,0.8780000305175781,0.5590000152587891,0.1205442324280738,Erling Haaland,OpenPlay,2022,LeftFoot,2023-04-30,Jack Grealish,Pass,13:00:00,Manchester City,Fulham,Away,2,1
+72,MissedShots,0.901999969482422,0.4370000076293945,0.0509736686944961,Erling Haaland,SetPiece,2022,Head,2023-04-30,Manuel Akanji,Chipped,13:00:00,Manchester City,Fulham,Away,2,1
+23,MissedShots,0.981999969482422,0.4229999923706055,0.3323915898799896,Erling Haaland,OpenPlay,2022,Head,2023-05-03,Jack Grealish,Cross,19:00:00,Manchester City,West Ham,Home,3,0
+69,Goal,0.8590000152587891,0.5920000076293945,0.5438916683197021,Erling Haaland,OpenPlay,2022,LeftFoot,2023-05-03,Jack Grealish,Throughball,19:00:00,Manchester City,West Ham,Home,3,0
+1,MissedShots,0.769000015258789,0.62,0.0203245393931865,Erling Haaland,OpenPlay,2022,LeftFoot,2023-05-06,Phil Foden,Pass,14:00:00,Manchester City,Leeds,Home,2,1
+16,SavedShot,0.8930000305175781,0.620999984741211,0.3372855186462402,Erling Haaland,OpenPlay,2022,LeftFoot,2023-05-06,,,14:00:00,Manchester City,Leeds,Home,2,1
+24,MissedShots,0.8669999694824219,0.519000015258789,0.3907798528671264,Erling Haaland,OpenPlay,2022,LeftFoot,2023-05-06,Kevin De Bruyne,Pass,14:00:00,Manchester City,Leeds,Home,2,1
+34,MissedShots,0.9540000152587892,0.335,0.1364578306674957,Erling Haaland,OpenPlay,2022,RightFoot,2023-05-06,Kevin De Bruyne,Throughball,14:00:00,Manchester City,Leeds,Home,2,1
+52,SavedShot,0.926999969482422,0.5029999923706054,0.0717852413654327,Erling Haaland,OpenPlay,2022,Head,2023-05-06,Julián Álvarez,Aerial,14:00:00,Manchester City,Leeds,Home,2,1
+61,ShotOnPost,0.8219999694824218,0.53,0.4165619015693664,Erling Haaland,OpenPlay,2022,LeftFoot,2023-05-06,Rico Lewis,Throughball,14:00:00,Manchester City,Leeds,Home,2,1
+38,Goal,0.9519999694824218,0.4679999923706054,0.5702345967292786,Erling Haaland,OpenPlay,2022,Head,2023-05-14,Ilkay Gündogan,Cross,13:00:00,Manchester City,Everton,Away,3,0
+59,MissedShots,0.9059999847412108,0.3670000076293945,0.1393900513648986,Erling Haaland,OpenPlay,2022,LeftFoot,2023-05-14,Phil Foden,Chipped,13:00:00,Manchester City,Everton,Away,3,0
+73,MissedShots,0.9280000305175782,0.6809999847412109,0.1348052471876144,Erling Haaland,OpenPlay,2022,LeftFoot,2023-05-21,Julián Álvarez,Throughball,15:00:00,Manchester City,Chelsea,Home,1,0
+4,MissedShots,0.895,0.5309999847412109,0.1001282930374145,Erling Haaland,OpenPlay,2022,LeftFoot,2023-05-24,Bernardo Silva,Cross,19:00:00,Manchester City,Brighton,Away,1,1
+5,MissedShots,0.96,0.46,0.5399767160415649,Erling Haaland,OpenPlay,2022,Head,2023-05-24,Phil Foden,Chipped,19:00:00,Manchester City,Brighton,Away,1,1
+20,SavedShot,0.9009999847412108,0.539000015258789,0.4356217682361603,Erling Haaland,OpenPlay,2022,LeftFoot,2023-05-24,Phil Foden,Pass,19:00:00,Manchester City,Brighton,Away,1,1
+47,MissedShots,0.8540000152587891,0.5320000076293945,0.065927967429161,Erling Haaland,OpenPlay,2022,LeftFoot,2023-05-24,Bernardo Silva,Cross,19:00:00,Manchester City,Brighton,Away,1,1
+65,MissedShots,0.8630000305175781,0.7030000305175781,0.0292771589010953,Erling Haaland,OpenPlay,2022,LeftFoot,2023-05-24,Julián Álvarez,Chipped,19:00:00,Manchester City,Brighton,Away,1,1
+88,MissedShots,0.9059999847412108,0.4970000076293945,0.0470780581235885,Erling Haaland,SetPiece,2022,Head,2023-05-24,Riyad Mahrez,Aerial,19:00:00,Manchester City,Brighton,Away,1,1
+3,Goal,0.936999969482422,0.5059999847412109,0.5058456659317017,Erling Haaland,FromCorner,2023,LeftFoot,2023-08-11,Rodri,HeadPass,19:00:00,Manchester City,Burnley,Away,3,0
+10,MissedShots,0.9519999694824218,0.4209999847412109,0.1302468031644821,Erling Haaland,OpenPlay,2023,RightFoot,2023-08-11,Kevin De Bruyne,Cross,19:00:00,Manchester City,Burnley,Away,3,0
+35,Goal,0.8909999847412109,0.385,0.1132136583328247,Erling Haaland,OpenPlay,2023,LeftFoot,2023-08-11,Julián Álvarez,Pass,19:00:00,Manchester City,Burnley,Away,3,0
+51,BlockedShot,0.9440000152587892,0.6819999694824219,0.1327562630176544,Erling Haaland,OpenPlay,2023,LeftFoot,2023-08-11,Julián Álvarez,Throughball,19:00:00,Manchester City,Burnley,Away,3,0
+40,MissedShots,0.8619999694824219,0.62,0.0904695987701416,Erling Haaland,OpenPlay,2023,LeftFoot,2023-08-19,Phil Foden,Pass,19:00:00,Manchester City,Newcastle United,Home,1,0
+49,SavedShot,0.8640000152587891,0.5870000076293945,0.0861922055482864,Erling Haaland,OpenPlay,2023,LeftFoot,2023-08-19,,,19:00:00,Manchester City,Newcastle United,Home,1,0
+62,MissedShots,0.87,0.53,0.1247357055544853,Erling Haaland,OpenPlay,2023,LeftFoot,2023-08-19,Phil Foden,Pass,19:00:00,Manchester City,Newcastle United,Home,1,0
+64,SavedShot,0.895,0.3629999923706055,0.1065842360258102,Erling Haaland,OpenPlay,2023,RightFoot,2023-08-19,Phil Foden,Pass,19:00:00,Manchester City,Newcastle United,Home,1,0
+7,MissedShots,0.8880000305175781,0.4279999923706055,0.0424993485212326,Erling Haaland,OpenPlay,2023,Head,2023-08-27,Bernardo Silva,Cross,13:00:00,Manchester City,Sheffield United,Away,2,1
+11,SavedShot,0.904000015258789,0.5329999923706055,0.0838533341884613,Erling Haaland,OpenPlay,2023,Head,2023-08-27,Julián Álvarez,Cross,13:00:00,Manchester City,Sheffield United,Away,2,1
+12,BlockedShot,0.9230000305175782,0.6220000076293946,0.0481563918292522,Erling Haaland,FromCorner,2023,LeftFoot,2023-08-27,Julián Álvarez,Cross,13:00:00,Manchester City,Sheffield United,Away,2,1
+36,ShotOnPost,0.885,0.5,0.7611688375473022,Erling Haaland,Penalty,2023,LeftFoot,2023-08-27,,Standard,13:00:00,Manchester City,Sheffield United,Away,2,1
+50,MissedShots,0.9159999847412108,0.509000015258789,0.1200757026672363,Erling Haaland,OpenPlay,2023,RightFoot,2023-08-27,Kyle Walker,Cross,13:00:00,Manchester City,Sheffield United,Away,2,1
+60,SavedShot,0.926999969482422,0.6,0.3865675032138824,Erling Haaland,OpenPlay,2023,LeftFoot,2023-08-27,Mateo Kovacic,Pass,13:00:00,Manchester City,Sheffield United,Away,2,1
+62,Goal,0.965999984741211,0.439000015258789,0.5121867656707764,Erling Haaland,OpenPlay,2023,Head,2023-08-27,Jack Grealish,Cross,13:00:00,Manchester City,Sheffield United,Away,2,1
+87,MissedShots,0.943000030517578,0.5,0.1444570124149322,Erling Haaland,OpenPlay,2023,Head,2023-08-27,Bernardo Silva,Cross,13:00:00,Manchester City,Sheffield United,Away,2,1
+30,MissedShots,0.8969999694824219,0.6659999847412109,0.0695315971970558,Erling Haaland,OpenPlay,2023,LeftFoot,2023-09-02,Mateo Kovacic,Pass,14:00:00,Manchester City,Fulham,Home,5,1
+57,Goal,0.8530000305175781,0.47,0.3721029758453369,Erling Haaland,OpenPlay,2023,LeftFoot,2023-09-02,,,14:00:00,Manchester City,Fulham,Home,5,1
+69,Goal,0.885,0.5,0.7611688375473022,Erling Haaland,Penalty,2023,LeftFoot,2023-09-02,,Standard,14:00:00,Manchester City,Fulham,Home,5,1
+94,Goal,0.8730000305175781,0.5420000076293945,0.1288056522607803,Erling Haaland,OpenPlay,2023,LeftFoot,2023-09-02,Sergio Gómez,Pass,14:00:00,Manchester City,Fulham,Home,5,1
+6,BlockedShot,0.884000015258789,0.4359999847412109,0.0802464932203292,Erling Haaland,FromCorner,2023,LeftFoot,2023-09-16,Jéremy Doku,HeadPass,14:00:00,Manchester City,West Ham,Away,3,1
+6,BlockedShot,0.9540000152587892,0.52,0.6378518342971802,Erling Haaland,FromCorner,2023,LeftFoot,2023-09-16,Rodri,Pass,14:00:00,Manchester City,West Ham,Away,3,1
+14,MissedShots,0.931999969482422,0.435,0.3717876970767975,Erling Haaland,OpenPlay,2023,LeftFoot,2023-09-16,Josko Gvardiol,Cross,14:00:00,Manchester City,West Ham,Away,3,1
+27,BlockedShot,0.8619999694824219,0.620999984741211,0.0784232467412948,Erling Haaland,OpenPlay,2023,LeftFoot,2023-09-16,Phil Foden,Pass,14:00:00,Manchester City,West Ham,Away,3,1
+41,BlockedShot,0.970999984741211,0.4370000076293945,0.5429793000221252,Erling Haaland,OpenPlay,2023,RightFoot,2023-09-16,Jéremy Doku,Pass,14:00:00,Manchester City,West Ham,Away,3,1
+53,SavedShot,0.906999969482422,0.5359999847412109,0.4616487324237823,Erling Haaland,OpenPlay,2023,LeftFoot,2023-09-16,Rodri,Throughball,14:00:00,Manchester City,West Ham,Away,3,1
+58,SavedShot,0.95,0.4679999923706054,0.0822779983282089,Erling Haaland,OpenPlay,2023,Head,2023-09-16,Bernardo Silva,Aerial,14:00:00,Manchester City,West Ham,Away,3,1
+81,SavedShot,0.901999969482422,0.4640000152587891,0.3313724398612976,Erling Haaland,OpenPlay,2023,LeftFoot,2023-09-16,Kyle Walker,Cross,14:00:00,Manchester City,West Ham,Away,3,1
+85,Goal,0.8980000305175782,0.615,0.3391328155994415,Erling Haaland,OpenPlay,2023,LeftFoot,2023-09-16,Bernardo Silva,Pass,14:00:00,Manchester City,West Ham,Away,3,1
+13,Goal,0.9259999847412108,0.555,0.3649953007698059,Erling Haaland,OpenPlay,2023,Head,2023-09-23,Matheus Nunes,Cross,14:00:00,Manchester City,Nottingham Forest,Home,2,0
+77,MissedShots,0.9259999847412108,0.474000015258789,0.5678633451461792,Erling Haaland,OpenPlay,2023,RightFoot,2023-09-23,Nathan Aké,Pass,14:00:00,Manchester City,Nottingham Forest,Home,2,0
+50,SavedShot,0.9130000305175782,0.635,0.0814208686351776,Erling Haaland,OpenPlay,2023,LeftFoot,2023-09-30,Oscar Bobb,Pass,14:00:00,Manchester City,Wolverhampton Wanderers,Away,1,2
+18,Goal,0.805,0.409000015258789,0.0568477362394332,Erling Haaland,OpenPlay,2023,LeftFoot,2023-10-21,,BallRecovery,14:00:00,Manchester City,Brighton,Home,2,1
+66,SavedShot,0.901999969482422,0.39,0.1450418680906295,Erling Haaland,OpenPlay,2023,LeftFoot,2023-10-21,Phil Foden,Chipped,14:00:00,Manchester City,Brighton,Home,2,1
+25,Goal,0.885,0.5,0.7611688375473022,Erling Haaland,Penalty,2023,LeftFoot,2023-10-29,,Standard,15:30:00,Manchester City,Manchester United,Away,3,0
+48,SavedShot,0.950999984741211,0.4640000152587891,0.5086833834648132,Erling Haaland,OpenPlay,2023,Head,2023-10-29,Bernardo Silva,Chipped,15:30:00,Manchester City,Manchester United,Away,3,0
+48,Goal,0.9590000152587892,0.4359999847412109,0.4078716337680816,Erling Haaland,OpenPlay,2023,Head,2023-10-29,Bernardo Silva,Chipped,15:30:00,Manchester City,Manchester United,Away,3,0
+70,SavedShot,0.9109999847412108,0.575999984741211,0.5055721402168274,Erling Haaland,OpenPlay,2023,LeftFoot,2023-10-29,Jack Grealish,Throughball,15:30:00,Manchester City,Manchester United,Away,3,0
+95,BlockedShot,0.735,0.4409999847412109,0.0527408272027969,Erling Haaland,DirectFreekick,2023,LeftFoot,2023-10-29,,Standard,15:30:00,Manchester City,Manchester United,Away,3,0
+21,BlockedShot,0.965999984741211,0.5609999847412109,0.0972415879368782,Erling Haaland,OpenPlay,2023,Head,2023-11-04,Julián Álvarez,Aerial,15:00:00,Manchester City,Bournemouth,Home,6,1
+24,BlockedShot,0.911999969482422,0.38,0.1598657369613647,Erling Haaland,OpenPlay,2023,RightFoot,2023-11-04,,TakeOn,15:00:00,Manchester City,Bournemouth,Home,6,1
+47,BlockedShot,0.879000015258789,0.5879999923706055,0.1396707445383072,Erling Haaland,OpenPlay,2023,LeftFoot,2023-11-04,Julián Álvarez,Throughball,15:00:00,Manchester City,Bournemouth,Home,6,1
+24,Goal,0.885,0.5,0.7611688375473022,Erling Haaland,Penalty,2023,LeftFoot,2023-11-12,,Standard,16:30:00,Manchester City,Chelsea,Away,4,4
+31,MissedShots,0.991999969482422,0.5840000152587891,0.2866228520870209,Erling Haaland,OpenPlay,2023,LeftFoot,2023-11-12,Phil Foden,Cross,16:30:00,Manchester City,Chelsea,Away,4,4
+41,SavedShot,0.874000015258789,0.5579999923706055,0.3491571247577667,Erling Haaland,OpenPlay,2023,LeftFoot,2023-11-12,Bernardo Silva,Pass,16:30:00,Manchester City,Chelsea,Away,4,4
+46,Goal,0.9769999694824218,0.5279999923706055,0.8636682629585266,Erling Haaland,OpenPlay,2023,OtherBodyPart,2023-11-12,,,16:30:00,Manchester City,Chelsea,Away,4,4
+26,Goal,0.86,0.5870000076293945,0.3175771236419678,Erling Haaland,OpenPlay,2023,LeftFoot,2023-11-25,Nathan Aké,Pass,12:30:00,Manchester City,Liverpool,Home,1,1
+54,MissedShots,0.87,0.47,0.1008122712373733,Erling Haaland,OpenPlay,2023,LeftFoot,2023-11-25,,,12:30:00,Manchester City,Liverpool,Home,1,1
+75,MissedShots,0.919000015258789,0.4540000152587891,0.0524505302309989,Erling Haaland,SetPiece,2023,Head,2023-11-25,Julián Álvarez,Aerial,12:30:00,Manchester City,Liverpool,Home,1,1
+78,SavedShot,0.96,0.5670000076293945,0.5778946876525879,Erling Haaland,OpenPlay,2023,LeftFoot,2023-11-25,Jéremy Doku,Pass,12:30:00,Manchester City,Liverpool,Home,1,1
+97,MissedShots,0.9669999694824218,0.5570000076293945,0.0761165916919708,Erling Haaland,FromCorner,2023,Head,2023-11-25,Julián Álvarez,Aerial,12:30:00,Manchester City,Liverpool,Home,1,1
+8,MissedShots,0.8919999694824219,0.4229999923706055,0.0467582792043685,Erling Haaland,SetPiece,2023,Head,2023-12-03,Julián Álvarez,Cross,16:30:00,Manchester City,Tottenham,Home,3,3
+12,MissedShots,0.92,0.499000015258789,0.486733078956604,Erling Haaland,OpenPlay,2023,LeftFoot,2023-12-03,Bernardo Silva,BallRecovery,16:30:00,Manchester City,Tottenham,Home,3,3
+15,BlockedShot,0.8580000305175781,0.605999984741211,0.037390049546957,Erling Haaland,FromCorner,2023,LeftFoot,2023-12-03,Bernardo Silva,Chipped,16:30:00,Manchester City,Tottenham,Home,3,3
+35,MissedShots,0.8690000152587891,0.4779999923706055,0.1250195503234863,Erling Haaland,OpenPlay,2023,LeftFoot,2023-12-03,Julián Álvarez,Pass,16:30:00,Manchester City,Tottenham,Home,3,3
+53,MissedShots,0.935,0.49,0.1488239914178848,Erling Haaland,OpenPlay,2023,Head,2023-12-03,Jack Grealish,Cross,16:30:00,Manchester City,Tottenham,Home,3,3
+10,SavedShot,0.909000015258789,0.6229999923706054,0.3656105101108551,Erling Haaland,OpenPlay,2023,LeftFoot,2023-12-06,Phil Foden,Throughball,20:15:00,Manchester City,Aston Villa,Away,0,1
+10,SavedShot,0.975999984741211,0.53,0.6363734006881714,Erling Haaland,OpenPlay,2023,Head,2023-12-06,Bernardo Silva,Chipped,20:15:00,Manchester City,Aston Villa,Away,0,1
+84,MissedShots,0.988000030517578,0.5770000076293945,0.1107935309410095,Erling Haaland,OpenPlay,2023,LeftFoot,2024-01-31,,CornerAwarded,19:30:00,Manchester City,Burnley,Home,3,1
+84,BlockedShot,0.960999984741211,0.5690000152587891,0.0663301944732666,Erling Haaland,OpenPlay,2023,Head,2024-01-31,Matheus Nunes,Aerial,19:30:00,Manchester City,Burnley,Home,3,1
+6,BlockedShot,0.9059999847412108,0.4620000076293945,0.1360410153865814,Erling Haaland,OpenPlay,2023,RightFoot,2024-02-05,Kevin De Bruyne,Pass,20:00:00,Manchester City,Brentford,Away,3,1
+22,SavedShot,0.8809999847412109,0.43,0.265750378370285,Erling Haaland,OpenPlay,2023,LeftFoot,2024-02-05,,BallRecovery,20:00:00,Manchester City,Brentford,Away,3,1
+27,BlockedShot,0.901999969482422,0.5170000076293946,0.1029148995876312,Erling Haaland,FromCorner,2023,LeftFoot,2024-02-05,,,20:00:00,Manchester City,Brentford,Away,3,1
+26,MissedShots,0.94,0.4579999923706054,0.0853118300437927,Erling Haaland,OpenPlay,2023,Head,2024-02-10,Jéremy Doku,Aerial,12:30:00,Manchester City,Everton,Home,2,0
+70,Goal,0.906999969482422,0.6229999923706054,0.0734920278191566,Erling Haaland,FromCorner,2023,RightFoot,2024-02-10,Nathan Aké,Rebound,12:30:00,Manchester City,Everton,Home,2,0
+75,BlockedShot,0.8169999694824219,0.495,0.0724244639277458,Erling Haaland,OpenPlay,2023,LeftFoot,2024-02-10,Julián Álvarez,BallTouch,12:30:00,Manchester City,Everton,Home,2,0
+84,Goal,0.86,0.395,0.3816374242305755,Erling Haaland,OpenPlay,2023,LeftFoot,2024-02-10,Kevin De Bruyne,TakeOn,12:30:00,Manchester City,Everton,Home,2,0
+11,MissedShots,0.924000015258789,0.4909999847412109,0.3918219804763794,Erling Haaland,OpenPlay,2023,Head,2024-02-17,Julián Álvarez,Cross,17:30:00,Manchester City,Chelsea,Home,1,1
+27,BlockedShot,0.915,0.6669999694824219,0.0256069544702768,Erling Haaland,SetPiece,2023,Head,2024-02-17,Kevin De Bruyne,Chipped,17:30:00,Manchester City,Chelsea,Home,1,1
+44,MissedShots,0.9590000152587892,0.45,0.0821221619844436,Erling Haaland,FromCorner,2023,Head,2024-02-17,,,17:30:00,Manchester City,Chelsea,Home,1,1
+47,MissedShots,0.8830000305175781,0.499000015258789,0.0251697171479463,Erling Haaland,OpenPlay,2023,Head,2024-02-17,Nathan Aké,Aerial,17:30:00,Manchester City,Chelsea,Home,1,1
+50,MissedShots,0.9159999847412108,0.5670000076293945,0.4909155666828155,Erling Haaland,OpenPlay,2023,LeftFoot,2024-02-17,Phil Foden,Cross,17:30:00,Manchester City,Chelsea,Home,1,1
+60,BlockedShot,0.948000030517578,0.4879999923706055,0.1017534807324409,Erling Haaland,OpenPlay,2023,LeftFoot,2024-02-17,Julián Álvarez,BallTouch,17:30:00,Manchester City,Chelsea,Home,1,1
+64,SavedShot,0.924000015258789,0.5890000152587891,0.0993904247879982,Erling Haaland,OpenPlay,2023,LeftFoot,2024-02-17,Jéremy Doku,Pass,17:30:00,Manchester City,Chelsea,Home,1,1
+77,MissedShots,0.9340000152587892,0.519000015258789,0.3948966860771179,Erling Haaland,OpenPlay,2023,Head,2024-02-17,Kevin De Bruyne,Cross,17:30:00,Manchester City,Chelsea,Home,1,1
+89,SavedShot,0.93,0.4429999923706054,0.0407108701765537,Erling Haaland,FromCorner,2023,Head,2024-02-17,Kevin De Bruyne,Aerial,17:30:00,Manchester City,Chelsea,Home,1,1
+93,BlockedShot,0.94,0.5329999923706055,0.0869737565517425,Erling Haaland,OpenPlay,2023,Head,2024-02-17,Bernardo Silva,Aerial,17:30:00,Manchester City,Chelsea,Home,1,1
+2,SavedShot,0.7930000305175782,0.2029999923706054,0.0137007543817162,Erling Haaland,OpenPlay,2023,LeftFoot,2024-02-20,,BallRecovery,18:30:00,Manchester City,Brentford,Home,1,0
+8,MissedShots,0.895,0.5420000076293945,0.048311349004507,Erling Haaland,OpenPlay,2023,Head,2024-02-20,Bernardo Silva,Chipped,18:30:00,Manchester City,Brentford,Home,1,0
+29,MissedShots,0.9009999847412108,0.499000015258789,0.1081277355551719,Erling Haaland,OpenPlay,2023,LeftFoot,2024-02-20,Oscar Bobb,Cross,18:30:00,Manchester City,Brentford,Home,1,0
+70,Goal,0.8030000305175782,0.5120000076293946,0.256304919719696,Erling Haaland,OpenPlay,2023,LeftFoot,2024-02-20,Julián Álvarez,Pass,18:30:00,Manchester City,Brentford,Home,1,0
+84,SavedShot,0.926999969482422,0.3229999923706054,0.0848630890250206,Erling Haaland,OpenPlay,2023,RightFoot,2024-02-20,Julián Álvarez,Pass,18:30:00,Manchester City,Brentford,Home,1,0
+92,SavedShot,0.8519999694824218,0.515,0.0746303498744964,Erling Haaland,OpenPlay,2023,LeftFoot,2024-02-20,Phil Foden,Cross,18:30:00,Manchester City,Brentford,Home,1,0
+8,MissedShots,0.7880000305175782,0.3979999923706054,0.0318400524556636,Erling Haaland,OpenPlay,2023,RightFoot,2024-02-24,Phil Foden,Pass,17:30:00,Manchester City,Bournemouth,Away,1,0
+23,SavedShot,0.9259999847412108,0.64,0.293916642665863,Erling Haaland,OpenPlay,2023,LeftFoot,2024-02-24,Mateo Kovacic,Chipped,17:30:00,Manchester City,Bournemouth,Away,1,0
+51,BlockedShot,0.941999969482422,0.34,0.0957591086626052,Erling Haaland,OpenPlay,2023,RightFoot,2024-02-24,Bernardo Silva,Pass,17:30:00,Manchester City,Bournemouth,Away,1,0
+74,SavedShot,0.9519999694824218,0.6120000076293945,0.3995432257652282,Erling Haaland,OpenPlay,2023,LeftFoot,2024-02-24,,,17:30:00,Manchester City,Bournemouth,Away,1,0
+3,MissedShots,0.9209999847412108,0.499000015258789,0.1245168894529342,Erling Haaland,OpenPlay,2023,Head,2024-03-03,Bernardo Silva,Cross,15:30:00,Manchester City,Manchester United,Home,3,1
+31,MissedShots,0.9180000305175782,0.4859999847412109,0.0457527674734592,Erling Haaland,OpenPlay,2023,Head,2024-03-03,,Rebound,15:30:00,Manchester City,Manchester United,Home,3,1
+44,MissedShots,0.973000030517578,0.5259999847412109,0.6609540581703186,Erling Haaland,OpenPlay,2023,LeftFoot,2024-03-03,Phil Foden,HeadPass,15:30:00,Manchester City,Manchester United,Home,3,1
+90,Goal,0.879000015258789,0.3279999923706054,0.2686331570148468,Erling Haaland,OpenPlay,2023,LeftFoot,2024-03-03,Rodri,Pass,15:30:00,Manchester City,Manchester United,Home,3,1
+38,SavedShot,0.8190000152587891,0.57,0.1155040189623832,Erling Haaland,OpenPlay,2023,LeftFoot,2024-03-10,,,15:45:00,Manchester City,Liverpool,Away,1,1
+36,MissedShots,0.9340000152587892,0.439000015258789,0.0633136555552482,Erling Haaland,OpenPlay,2023,Head,2024-03-31,Josko Gvardiol,Aerial,16:30:00,Manchester City,Arsenal,Home,0,0
+63,BlockedShot,0.855,0.495,0.0794888958334922,Erling Haaland,OpenPlay,2023,LeftFoot,2024-03-31,Rodri,Chipped,16:30:00,Manchester City,Arsenal,Home,0,0
+91,BlockedShot,0.9059999847412108,0.509000015258789,0.0269249808043241,Erling Haaland,FromCorner,2023,Head,2024-03-31,Kevin De Bruyne,Aerial,16:30:00,Manchester City,Arsenal,Home,0,0
+92,MissedShots,0.9259999847412108,0.5379999923706055,0.063234344124794,Erling Haaland,OpenPlay,2023,Head,2024-03-31,,Aerial,16:30:00,Manchester City,Arsenal,Home,0,0
+18,SavedShot,0.8380000305175781,0.5429999923706055,0.3197339177131653,Erling Haaland,OpenPlay,2023,LeftFoot,2024-04-06,Kevin De Bruyne,Throughball,11:30:00,Manchester City,Crystal Palace,Away,4,2
+65,Goal,0.9440000152587892,0.5220000076293946,0.6212957501411438,Erling Haaland,OpenPlay,2023,LeftFoot,2024-04-06,Kevin De Bruyne,Pass,11:30:00,Manchester City,Crystal Palace,Away,4,2
+1,MissedShots,0.8969999694824219,0.4670000076293945,0.1198847740888595,Erling Haaland,OpenPlay,2023,LeftFoot,2024-04-13,,Rebound,14:00:00,Manchester City,Luton,Home,5,1
+1,SavedShot,0.845,0.509000015258789,0.2417893707752227,Erling Haaland,OpenPlay,2023,RightFoot,2024-04-13,Kevin De Bruyne,Pass,14:00:00,Manchester City,Luton,Home,5,1
+17,MissedShots,0.955,0.5579999923706055,0.4838408529758453,Erling Haaland,OpenPlay,2023,LeftFoot,2024-04-13,Kevin De Bruyne,Cross,14:00:00,Manchester City,Luton,Home,5,1
+24,BlockedShot,0.8880000305175781,0.5,0.1201772093772888,Erling Haaland,OpenPlay,2023,LeftFoot,2024-04-13,,,14:00:00,Manchester City,Luton,Home,5,1
+75,Goal,0.885,0.5,0.7611688375473022,Erling Haaland,Penalty,2023,LeftFoot,2024-04-13,,Standard,14:00:00,Manchester City,Luton,Home,5,1
+70,Goal,0.905,0.409000015258789,0.3861182034015655,Erling Haaland,OpenPlay,2023,RightFoot,2024-04-28,Kevin De Bruyne,Pass,15:30:00,Manchester City,Nottingham Forest,Away,2,0
+94,SavedShot,0.94,0.6409999847412109,0.1071503907442092,Erling Haaland,OpenPlay,2023,LeftFoot,2024-04-28,Oscar Bobb,Pass,15:30:00,Manchester City,Nottingham Forest,Away,2,0
+11,Goal,0.885,0.5,0.7611688375473022,Erling Haaland,Penalty,2023,LeftFoot,2024-05-04,,Standard,16:30:00,Manchester City,Wolverhampton Wanderers,Home,5,1
+16,SavedShot,0.926999969482422,0.5570000076293945,0.4206187129020691,Erling Haaland,OpenPlay,2023,Head,2024-05-04,Bernardo Silva,Aerial,16:30:00,Manchester City,Wolverhampton Wanderers,Home,5,1
+34,Goal,0.95,0.5990000152587891,0.0497245080769062,Erling Haaland,OpenPlay,2023,Head,2024-05-04,Rodri,Chipped,16:30:00,Manchester City,Wolverhampton Wanderers,Home,5,1
+47,Goal,0.885,0.5,0.7611688375473022,Erling Haaland,Penalty,2023,LeftFoot,2024-05-04,,Standard,16:30:00,Manchester City,Wolverhampton Wanderers,Home,5,1
+53,Goal,0.8719999694824219,0.3770000076293945,0.1067220047116279,Erling Haaland,OpenPlay,2023,LeftFoot,2024-05-04,Phil Foden,Chipped,16:30:00,Manchester City,Wolverhampton Wanderers,Home,5,1
+57,BlockedShot,0.8569999694824219,0.5790000152587891,0.1043671742081642,Erling Haaland,OpenPlay,2023,LeftFoot,2024-05-04,Kevin De Bruyne,Pass,16:30:00,Manchester City,Wolverhampton Wanderers,Home,5,1
+59,SavedShot,0.904000015258789,0.435,0.4304244518280029,Erling Haaland,OpenPlay,2023,RightFoot,2024-05-04,Josko Gvardiol,Pass,16:30:00,Manchester City,Wolverhampton Wanderers,Home,5,1
+76,SavedShot,0.904000015258789,0.53,0.0932508632540702,Erling Haaland,OpenPlay,2023,Head,2024-05-04,Bernardo Silva,Cross,16:30:00,Manchester City,Wolverhampton Wanderers,Home,5,1
+14,MissedShots,0.875999984741211,0.49,0.1023066043853759,Erling Haaland,OpenPlay,2023,RightFoot,2024-05-11,Bernardo Silva,HeadPass,11:30:00,Manchester City,Fulham,Away,4,0
+60,MissedShots,0.8730000305175781,0.37,0.2620955407619476,Erling Haaland,OpenPlay,2023,LeftFoot,2024-05-11,Kevin De Bruyne,Pass,11:30:00,Manchester City,Fulham,Away,4,0
+67,BlockedShot,0.8469999694824218,0.3629999923706055,0.1305818259716034,Erling Haaland,OpenPlay,2023,LeftFoot,2024-05-11,Kevin De Bruyne,TakeOn,11:30:00,Manchester City,Fulham,Away,4,0
+50,Goal,0.978000030517578,0.5220000076293946,0.9445824027061462,Erling Haaland,OpenPlay,2023,LeftFoot,2024-05-14,Kevin De Bruyne,Pass,19:00:00,Manchester City,Tottenham,Away,2,0
+90,Goal,0.885,0.5,0.7611688375473022,Erling Haaland,Penalty,2023,LeftFoot,2024-05-14,,Standard,19:00:00,Manchester City,Tottenham,Away,2,0
+45,MissedShots,0.931999969482422,0.5070000076293946,0.1413769572973251,Erling Haaland,OpenPlay,2023,LeftFoot,2024-05-19,,,15:00:00,Manchester City,West Ham,Home,3,1
+65,BlockedShot,0.9009999847412108,0.5379999923706055,0.1430761963129043,Erling Haaland,OpenPlay,2023,LeftFoot,2024-05-19,Phil Foden,Pass,15:00:00,Manchester City,West Ham,Home,3,1
+68,BlockedShot,0.875,0.474000015258789,0.0705470144748687,Erling Haaland,FromCorner,2023,LeftFoot,2024-05-19,Manuel Akanji,Pass,15:00:00,Manchester City,West Ham,Home,3,1
+83,MissedShots,0.965999984741211,0.5479999923706055,0.5927795171737671,Erling Haaland,SetPiece,2023,OtherBodyPart,2024-05-19,Kevin De Bruyne,Cross,15:00:00,Manchester City,West Ham,Home,3,1
+17,Goal,0.9259999847412108,0.5359999847412109,0.5389691591262817,Erling Haaland,OpenPlay,2024,LeftFoot,2024-08-18,Bernardo Silva,Pass,15:30:00,Manchester City,Chelsea,Away,2,0
+51,SavedShot,0.865999984741211,0.4759999847412109,0.1167243123054504,Erling Haaland,OpenPlay,2024,LeftFoot,2024-08-18,Bernardo Silva,Pass,15:30:00,Manchester City,Chelsea,Away,2,0
+11,Goal,0.885,0.5,0.7611688375473022,Erling Haaland,Penalty,2024,LeftFoot,2024-08-24,,Standard,14:00:00,Manchester City,Ipswich,Home,4,1
+15,Goal,0.9209999847412108,0.6919999694824219,0.4703933298587799,Erling Haaland,OpenPlay,2024,LeftFoot,2024-08-24,Kevin De Bruyne,TakeOn,14:00:00,Manchester City,Ipswich,Home,4,1
+32,MissedShots,0.89,0.484000015258789,0.0634668841958046,Erling Haaland,OpenPlay,2024,Head,2024-08-24,Manuel Akanji,Cross,14:00:00,Manchester City,Ipswich,Home,4,1
+47,MissedShots,0.9569999694824218,0.5670000076293945,0.1507614850997924,Erling Haaland,OpenPlay,2024,LeftFoot,2024-08-24,Jéremy Doku,Pass,14:00:00,Manchester City,Ipswich,Home,4,1
+50,MissedShots,0.911999969482422,0.5209999847412109,0.045987844467163,Erling Haaland,OpenPlay,2024,Head,2024-08-24,Sávio,Aerial,14:00:00,Manchester City,Ipswich,Home,4,1
+63,SavedShot,0.93,0.544000015258789,0.3169856667518616,Erling Haaland,FromCorner,2024,Head,2024-08-24,Kevin De Bruyne,Cross,14:00:00,Manchester City,Ipswich,Home,4,1
+87,Goal,0.7769999694824219,0.3679999923706055,0.0317001603543758,Erling Haaland,OpenPlay,2024,LeftFoot,2024-08-24,,BallTouch,14:00:00,Manchester City,Ipswich,Home,4,1
+5,MissedShots,0.933000030517578,0.465,0.384419173002243,Erling Haaland,OpenPlay,2024,Head,2024-08-31,Bernardo Silva,Chipped,16:30:00,Manchester City,West Ham,Away,3,1
+9,Goal,0.87,0.445,0.3632678687572479,Erling Haaland,OpenPlay,2024,LeftFoot,2024-08-31,Bernardo Silva,Pass,16:30:00,Manchester City,West Ham,Away,3,1
+29,Goal,0.86,0.3829999923706054,0.0827379524707794,Erling Haaland,OpenPlay,2024,LeftFoot,2024-08-31,Rico Lewis,Pass,16:30:00,Manchester City,West Ham,Away,3,1
+82,Goal,0.8240000152587891,0.53,0.3301194310188293,Erling Haaland,OpenPlay,2024,LeftFoot,2024-08-31,Matheus Nunes,Throughball,16:30:00,Manchester City,West Ham,Away,3,1
+94,SavedShot,0.963000030517578,0.644000015258789,0.1531204432249069,Erling Haaland,OpenPlay,2024,LeftFoot,2024-08-31,Ilkay Gündogan,Throughball,16:30:00,Manchester City,West Ham,Away,3,1
+19,Goal,0.9159999847412108,0.3929999923706054,0.0692524090409278,Erling Haaland,OpenPlay,2024,RightFoot,2024-09-14,,Dispossessed,14:00:00,Manchester City,Brentford,Home,2,1
+31,Goal,0.8730000305175781,0.5729999923706055,0.2012233585119247,Erling Haaland,OpenPlay,2024,LeftFoot,2024-09-14,Ederson,Pass,14:00:00,Manchester City,Brentford,Home,2,1
+68,SavedShot,0.8830000305175781,0.4379999923706055,0.1167666688561439,Erling Haaland,OpenPlay,2024,RightFoot,2024-09-14,Ilkay Gündogan,Pass,14:00:00,Manchester City,Brentford,Home,2,1
+80,SavedShot,0.875999984741211,0.6370000076293946,0.0960469096899032,Erling Haaland,OpenPlay,2024,LeftFoot,2024-09-14,Kevin De Bruyne,Pass,14:00:00,Manchester City,Brentford,Home,2,1
+80,BlockedShot,0.855,0.555,0.1039682775735855,Erling Haaland,OpenPlay,2024,LeftFoot,2024-09-14,Jack Grealish,Pass,14:00:00,Manchester City,Brentford,Home,2,1
+80,ShotOnPost,0.9109999847412108,0.55,0.1432002484798431,Erling Haaland,OpenPlay,2024,LeftFoot,2024-09-14,Kevin De Bruyne,Pass,14:00:00,Manchester City,Brentford,Home,2,1
+8,Goal,0.879000015258789,0.3920000076293945,0.3288222551345825,Erling Haaland,OpenPlay,2024,LeftFoot,2024-09-22,Sávio,Throughball,15:30:00,Manchester City,Arsenal,Home,2,2
+47,SavedShot,0.936999969482422,0.5579999923706055,0.0514668338000774,Erling Haaland,OpenPlay,2024,Head,2024-09-22,Kyle Walker,Aerial,15:30:00,Manchester City,Arsenal,Home,2,2
+58,SavedShot,0.965,0.575,0.2709996998310089,Erling Haaland,FromCorner,2024,Head,2024-09-22,Kyle Walker,Aerial,15:30:00,Manchester City,Arsenal,Home,2,2
+76,BlockedShot,0.8719999694824219,0.3659999847412109,0.0659854859113693,Erling Haaland,OpenPlay,2024,LeftFoot,2024-09-22,Ilkay Gündogan,Pass,15:30:00,Manchester City,Arsenal,Home,2,2
+88,SavedShot,0.9009999847412108,0.499000015258789,0.0798156335949897,Erling Haaland,OpenPlay,2024,LeftFoot,2024-09-22,,BallTouch,15:30:00,Manchester City,Arsenal,Home,2,2
+92,SavedShot,0.8980000305175782,0.524000015258789,0.0320949591696262,Erling Haaland,OpenPlay,2024,Head,2024-09-22,Manuel Akanji,Aerial,15:30:00,Manchester City,Arsenal,Home,2,2
+6,SavedShot,0.8830000305175781,0.7030000305175781,0.0455188006162643,Erling Haaland,OpenPlay,2024,LeftFoot,2024-09-28,Ilkay Gündogan,Pass,11:30:00,Manchester City,Newcastle United,Away,1,1
+51,BlockedShot,0.8959999847412109,0.3220000076293945,0.0931793004274368,Erling Haaland,OpenPlay,2024,LeftFoot,2024-09-28,,TakeOn,11:30:00,Manchester City,Newcastle United,Away,1,1
+74,BlockedShot,0.85,0.4309999847412109,0.0889013335108757,Erling Haaland,OpenPlay,2024,LeftFoot,2024-09-28,Mateo Kovacic,Pass,11:30:00,Manchester City,Newcastle United,Away,1,1
+75,MissedShots,0.97,0.4070000076293945,0.0437359251081943,Erling Haaland,OpenPlay,2024,Head,2024-09-28,Jack Grealish,Chipped,11:30:00,Manchester City,Newcastle United,Away,1,1
+94,SavedShot,0.916999969482422,0.5070000076293946,0.1196653470396995,Erling Haaland,OpenPlay,2024,Head,2024-09-28,Sávio,Cross,11:30:00,Manchester City,Newcastle United,Away,1,1
+3,MissedShots,0.921999969482422,0.6680000305175782,0.1188253238797187,Erling Haaland,OpenPlay,2024,LeftFoot,2024-10-05,Phil Foden,Throughball,14:00:00,Manchester City,Fulham,Home,3,2
+6,BlockedShot,0.7780000305175782,0.3529999923706055,0.068157285451889,Erling Haaland,DirectFreekick,2024,LeftFoot,2024-10-05,,Standard,14:00:00,Manchester City,Fulham,Home,3,2
+7,SavedShot,0.7980000305175782,0.4709999847412109,0.0643126145005226,Erling Haaland,OpenPlay,2024,RightFoot,2024-10-05,Phil Foden,TakeOn,14:00:00,Manchester City,Fulham,Home,3,2
+14,SavedShot,0.9309999847412108,0.5979999923706054,0.0465023145079612,Erling Haaland,FromCorner,2024,Head,2024-10-05,Phil Foden,Cross,14:00:00,Manchester City,Fulham,Home,3,2
+4,Goal,0.9359999847412108,0.4720000076293945,0.471447229385376,Erling Haaland,OpenPlay,2024,LeftFoot,2024-10-26,Matheus Nunes,Cross,14:00:00,Manchester City,Southampton,Home,1,0
+41,BlockedShot,0.85,0.4640000152587891,0.1349002718925476,Erling Haaland,OpenPlay,2024,LeftFoot,2024-10-26,Phil Foden,Pass,14:00:00,Manchester City,Southampton,Home,1,0
+44,MissedShots,0.968000030517578,0.600999984741211,0.0154035296291112,Erling Haaland,FromCorner,2024,Head,2024-10-26,Phil Foden,Aerial,14:00:00,Manchester City,Southampton,Home,1,0
+49,SavedShot,0.925,0.5409999847412109,0.0512808263301849,Erling Haaland,FromCorner,2024,Head,2024-10-26,,,14:00:00,Manchester City,Southampton,Home,1,0
+49,BlockedShot,0.963000030517578,0.5520000076293945,0.12613245844841,Erling Haaland,FromCorner,2024,Head,2024-10-26,Phil Foden,Cross,14:00:00,Manchester City,Southampton,Home,1,0
+51,MissedShots,0.975999984741211,0.5579999923706055,0.5847028493881226,Erling Haaland,SetPiece,2024,LeftFoot,2024-10-26,Sávio,Cross,14:00:00,Manchester City,Southampton,Home,1,0
+62,MissedShots,0.9790000152587892,0.5520000076293945,0.6293514370918274,Erling Haaland,OpenPlay,2024,Head,2024-10-26,Sávio,Cross,14:00:00,Manchester City,Southampton,Home,1,0
+95,SavedShot,0.916999969482422,0.4229999923706055,0.4260247349739074,Erling Haaland,OpenPlay,2024,RightFoot,2024-10-26,Phil Foden,Throughball,14:00:00,Manchester City,Southampton,Home,1,0
+25,MissedShots,0.933000030517578,0.5620000076293945,0.3086177706718445,Erling Haaland,OpenPlay,2024,Head,2024-11-02,Phil Foden,Cross,15:00:00,Manchester City,Bournemouth,Away,1,2
+37,MissedShots,0.889000015258789,0.3620000076293945,0.043877750635147,Erling Haaland,OpenPlay,2024,LeftFoot,2024-11-02,Matheus Nunes,Cross,15:00:00,Manchester City,Bournemouth,Away,1,2
+48,MissedShots,0.9619999694824218,0.43,0.0599314607679843,Erling Haaland,OpenPlay,2024,Head,2024-11-02,,Aerial,15:00:00,Manchester City,Bournemouth,Away,1,2
+79,SavedShot,0.931999969482422,0.474000015258789,0.0928698182106018,Erling Haaland,OpenPlay,2024,LeftFoot,2024-11-02,Matheus Nunes,Cross,15:00:00,Manchester City,Bournemouth,Away,1,2
+92,ShotOnPost,0.963000030517578,0.545,0.6089218258857727,Erling Haaland,FromCorner,2024,LeftFoot,2024-11-02,,Rebound,15:00:00,Manchester City,Bournemouth,Away,1,2
+92,SavedShot,0.955999984741211,0.5220000076293946,0.4832672476768493,Erling Haaland,FromCorner,2024,Head,2024-11-02,Phil Foden,Aerial,15:00:00,Manchester City,Bournemouth,Away,1,2
+16,MissedShots,0.9619999694824218,0.3870000076293945,0.0548887588083744,Erling Haaland,SetPiece,2024,RightFoot,2024-11-09,Phil Foden,Cross,17:30:00,Manchester City,Brighton,Away,1,2
+22,Goal,0.97,0.53,0.8936280608177185,Erling Haaland,OpenPlay,2024,RightFoot,2024-11-09,,Rebound,17:30:00,Manchester City,Brighton,Away,1,2
+22,SavedShot,0.8909999847412109,0.565,0.5872154235839844,Erling Haaland,OpenPlay,2024,LeftFoot,2024-11-09,Mateo Kovacic,Throughball,17:30:00,Manchester City,Brighton,Away,1,2
+25,SavedShot,0.9440000152587892,0.34,0.0982281789183616,Erling Haaland,OpenPlay,2024,RightFoot,2024-11-09,Phil Foden,Pass,17:30:00,Manchester City,Brighton,Away,1,2
+26,MissedShots,0.9540000152587892,0.5,0.4109667241573334,Erling Haaland,FromCorner,2024,Head,2024-11-09,Phil Foden,Aerial,17:30:00,Manchester City,Brighton,Away,1,2
+30,BlockedShot,0.7919999694824219,0.2960000038146972,0.0292738266289234,Erling Haaland,OpenPlay,2024,LeftFoot,2024-11-09,Mateo Kovacic,BallRecovery,17:30:00,Manchester City,Brighton,Away,1,2
+54,BlockedShot,0.7130000305175781,0.5159999847412109,0.02314262278378,Erling Haaland,OpenPlay,2024,LeftFoot,2024-11-09,Mateo Kovacic,Pass,17:30:00,Manchester City,Brighton,Away,1,2
+2,MissedShots,0.9640000152587892,0.3720000076293945,0.020552048459649,Erling Haaland,OpenPlay,2024,Head,2024-11-23,Josko Gvardiol,Cross,17:30:00,Manchester City,Tottenham,Home,0,4
+4,BlockedShot,0.8680000305175781,0.4109999847412109,0.0956666767597198,Erling Haaland,OpenPlay,2024,LeftFoot,2024-11-23,Josko Gvardiol,Pass,17:30:00,Manchester City,Tottenham,Home,0,4
+10,SavedShot,0.879000015258789,0.55,0.3742187619209289,Erling Haaland,OpenPlay,2024,LeftFoot,2024-11-23,Sávio,Pass,17:30:00,Manchester City,Tottenham,Home,0,4
+21,MissedShots,0.8809999847412109,0.5570000076293945,0.1126211211085319,Erling Haaland,OpenPlay,2024,LeftFoot,2024-11-23,Josko Gvardiol,Pass,17:30:00,Manchester City,Tottenham,Home,0,4
+59,ShotOnPost,0.915,0.2989999961853027,0.0633773505687713,Erling Haaland,OpenPlay,2024,LeftFoot,2024-11-23,,TakeOn,17:30:00,Manchester City,Tottenham,Home,0,4
+68,MissedShots,0.931999969482422,0.4579999923706054,0.1376124322414398,Erling Haaland,OpenPlay,2024,Head,2024-11-23,Josko Gvardiol,Cross,17:30:00,Manchester City,Tottenham,Home,0,4
+78,SavedShot,0.9619999694824218,0.35,0.2905358374118805,Erling Haaland,OpenPlay,2024,LeftFoot,2024-11-23,Kevin De Bruyne,Throughball,17:30:00,Manchester City,Tottenham,Home,0,4
+59,BlockedShot,0.860999984741211,0.529000015258789,0.0652969926595687,Erling Haaland,OpenPlay,2024,LeftFoot,2024-12-01,,,16:00:00,Manchester City,Liverpool,Away,0,2
+81,SavedShot,0.830999984741211,0.500999984741211,0.0482567735016346,Erling Haaland,OpenPlay,2024,LeftFoot,2024-12-01,Rúben Dias,,16:00:00,Manchester City,Liverpool,Away,0,2
+5,SavedShot,0.8630000305175781,0.4929999923706055,0.0716806054115295,Erling Haaland,OpenPlay,2024,RightFoot,2024-12-04,Kevin De Bruyne,Cross,19:30:00,Manchester City,Nottingham Forest,Home,3,0
+91,MissedShots,0.8209999847412109,0.700999984741211,0.2730585038661957,Erling Haaland,OpenPlay,2024,LeftFoot,2024-12-04,,,19:30:00,Manchester City,Nottingham Forest,Home,3,0
+6,SavedShot,0.89,0.5229999923706055,0.4330663681030273,Erling Haaland,OpenPlay,2024,LeftFoot,2024-12-07,Kevin De Bruyne,Throughball,15:00:00,Manchester City,Crystal Palace,Away,2,2
+29,Goal,0.9290000152587892,0.46,0.2861519753932953,Erling Haaland,OpenPlay,2024,Head,2024-12-07,Matheus Nunes,Aerial,15:00:00,Manchester City,Crystal Palace,Away,2,2
+74,BlockedShot,0.965,0.44,0.0693942904472351,Erling Haaland,FromCorner,2024,Head,2024-12-07,Matheus Nunes,Aerial,15:00:00,Manchester City,Crystal Palace,Away,2,2
+75,BlockedShot,0.8769999694824219,0.4679999923706054,0.12396240234375,Erling Haaland,OpenPlay,2024,LeftFoot,2024-12-15,Mateo Kovacic,Pass,16:30:00,Manchester City,Manchester United,Home,1,2
+89,MissedShots,0.925,0.4879999923706055,0.0760026425123214,Erling Haaland,OpenPlay,2024,Head,2024-12-21,Bernardo Silva,Aerial,12:30:00,Manchester City,Aston Villa,Away,1,2
