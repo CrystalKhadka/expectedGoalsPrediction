@@ -9,12 +9,12 @@ postgres_port = '5432'
 postgres_db = 'football'
 
 # File paths for the CSV files
-fixtures_csv_path = "man_city_fixtures_with_match_id.csv"
-shots_csv_path = "man_city_shots_normalized_with_match_id.csv"
-player_csv_path = "player_statistics_with_match_id.csv"
-haaland_shots_path = "haaland_shots_with_match_id.csv"
-haaland_goals_path = "haaland_goals_with_match_id.csv"
-haaland_assists_path = "haaland_assists_with_match_id.csv"
+fixtures_csv_path = "../data/normalized_data/man_city_fixtures_with_match_id.csv"
+shots_csv_path = "../data/normalized_data/man_city_shots_normalized_with_match_id.csv"
+player_csv_path = "../data/normalized_data/player_statistics_with_match_id.csv"
+haaland_shots_path = "../data/normalized_data/haaland_shots_with_match_id.csv"
+haaland_goals_path = "../data/normalized_data/haaland_goals_with_match_id.csv"
+haaland_assists_path = "../data/normalized_data/haaland_assists_with_match_id.csv"
 
 # Read CSV files into DataFrames
 fixtures_df = pd.read_csv(fixtures_csv_path)
