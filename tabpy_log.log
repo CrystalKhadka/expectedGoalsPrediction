@@ -1,0 +1,322 @@
+2025-01-20,08:23:12 [INFO] (app.py:app:316): Parsing config file D:\sem6\thesis\expectedGoalsRecommendatiion\.venv\Lib\site-packages\tabpy\tabpy_server\app\..\common\default.conf
+2025-01-20,08:23:12 [DEBUG] (app.py:app:277): Parameter port set to "9004" from default value
+2025-01-20,08:23:12 [DEBUG] (app.py:app:277): Parameter server_version set to "2.13.0" from default value
+2025-01-20,08:23:12 [DEBUG] (app.py:app:277): Parameter evaluate_enabled set to "True" from default value
+2025-01-20,08:23:12 [DEBUG] (app.py:app:277): Parameter evaluate_timeout set to "30" from default value
+2025-01-20,08:23:12 [DEBUG] (app.py:app:277): Parameter upload_dir set to "D:\sem6\thesis\expectedGoalsRecommendatiion\.venv\Lib\site-packages\tabpy\tmp\query_objects" from default value
+2025-01-20,08:23:12 [DEBUG] (app.py:app:277): Parameter transfer_protocol set to "http" from default value
+2025-01-20,08:23:12 [DEBUG] (app.py:app:284): Parameter certificate_file is not set
+2025-01-20,08:23:12 [DEBUG] (app.py:app:284): Parameter key_file is not set
+2025-01-20,08:23:12 [DEBUG] (app.py:app:277): Parameter minimum_tls_version set to "TLSv1_2" from default value
+2025-01-20,08:23:12 [DEBUG] (app.py:app:277): Parameter state_file_path set to "D:\sem6\thesis\expectedGoalsRecommendatiion\.venv\Lib\site-packages\tabpy\tabpy_server" from default value
+2025-01-20,08:23:12 [DEBUG] (app.py:app:277): Parameter static_path set to "D:\sem6\thesis\expectedGoalsRecommendatiion\.venv\Lib\site-packages\tabpy\tabpy_server\static" from default value
+2025-01-20,08:23:12 [DEBUG] (app.py:app:284): Parameter TABPY_PWD_FILE is not set
+2025-01-20,08:23:12 [DEBUG] (app.py:app:277): Parameter log_request_context set to "false" from default value
+2025-01-20,08:23:12 [DEBUG] (app.py:app:277): Parameter max_request_size_in_mb set to "100" from default value
+2025-01-20,08:23:12 [DEBUG] (app.py:app:277): Parameter gzip_enabled set to "True" from default value
+2025-01-20,08:23:12 [DEBUG] (app.py:app:277): Parameter arrow_enabled set to "False" from default value
+2025-01-20,08:23:12 [DEBUG] (app.py:app:277): Parameter arrowflight_port set to "13622" from default value
+2025-01-20,08:23:12 [INFO] (app.py:app:381): Setting max request size to 104857600 bytes
+2025-01-20,08:23:12 [DEBUG] (app.py:app:539): File D:\sem6\thesis\expectedGoalsRecommendatiion\.venv\Lib\site-packages\tabpy\tabpy_server\state.ini not found, creating from template D:\sem6\thesis\expectedGoalsRecommendatiion\.venv\Lib\site-packages\tabpy\tabpy_server\state.ini.template...
+2025-01-20,08:23:12 [INFO] (app.py:app:545): Loading state from state file D:\sem6\thesis\expectedGoalsRecommendatiion\.venv\Lib\site-packages\tabpy\tabpy_server\state.ini
+2025-01-20,08:23:12 [DEBUG] (app.py:app:397): Static pages folder set to "D:\sem6\thesis\expectedGoalsRecommendatiion\.venv\Lib\site-packages\tabpy\tabpy_server\static"
+2025-01-20,08:23:15 [INFO] (app.py:app:510): Password file is not specified: Authentication is not enabled
+2025-01-20,08:23:15 [INFO] (app.py:app:429): Call context logging is disabled
+2025-01-20,08:23:15 [INFO] (app.py:app:197): Initializing TabPy...
+2025-01-20,08:23:15 [DEBUG] (proactor_events.py:proactor_events:634): Using proactor: IocpProactor
+2025-01-20,08:23:15 [INFO] (callbacks.py:callbacks:43): Initializing TabPy Server...
+2025-01-20,08:23:15 [DEBUG] (state.py:state:628): Loading option 'None' from section [Query Objects Service Versions]...
+2025-01-20,08:23:15 [DEBUG] (state.py:state:650): Returning value '[]'
+2025-01-20,08:23:15 [DEBUG] (state.py:state:148): Collected endpoints: {}
+2025-01-20,08:23:15 [INFO] (app.py:app:201): Done initializing TabPy.
+2025-01-20,08:23:15 [DEBUG] (selector_events.py:selector_events:64): Using selector: SelectSelector
+2025-01-20,08:23:15 [INFO] (callbacks.py:callbacks:64): Initializing models...
+2025-01-20,08:23:15 [DEBUG] (state.py:state:628): Loading option 'None' from section [Query Objects Service Versions]...
+2025-01-20,08:23:15 [DEBUG] (state.py:state:650): Returning value '[]'
+2025-01-20,08:23:15 [DEBUG] (state.py:state:148): Collected endpoints: {}
+2025-01-20,08:23:15 [INFO] (app.py:app:167): Web service listening on port 9004
+2025-01-20,08:23:37 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2025-01-20,08:23:37 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2025-01-20,08:23:37 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2025-01-20,08:23:37 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2025-01-20,08:23:37 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2025-01-20,08:23:37 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2025-01-20,08:23:37 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2025-01-20,08:23:37 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2025-01-20,08:23:37 [DEBUG] (state.py:state:650): Returning value ''
+2025-01-20,08:23:37 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2025-01-20,08:23:37 [DEBUG] (state.py:state:650): Returning value ''
+2025-01-20,08:23:37 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2025-01-20,08:23:37 [DEBUG] (state.py:state:650): Returning value ''
+2025-01-20,08:23:37 [DEBUG] (state.py:state:628): Loading option 'None' from section [Query Objects Service Versions]...
+2025-01-20,08:23:37 [DEBUG] (state.py:state:650): Returning value '[]'
+2025-01-20,08:23:37 [DEBUG] (state.py:state:148): Collected endpoints: {}
+2025-01-20,08:23:37 [INFO] (web.py:web:2348): 200 GET /endpoints (::1) 24.56ms
+2025-01-20,08:23:37 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2025-01-20,08:23:37 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2025-01-20,08:23:37 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2025-01-20,08:23:37 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2025-01-20,08:23:37 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2025-01-20,08:23:37 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2025-01-20,08:23:37 [INFO] (web.py:web:2348): 200 GET /configurations/endpoint_upload_destination (::1) 4.30ms
+2025-01-20,08:23:37 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2025-01-20,08:23:37 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2025-01-20,08:23:37 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2025-01-20,08:23:37 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2025-01-20,08:23:37 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2025-01-20,08:23:37 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2025-01-20,08:23:37 [DEBUG] (state.py:state:628): Loading option 'None' from section [Query Objects Service Versions]...
+2025-01-20,08:23:37 [DEBUG] (state.py:state:650): Returning value '[]'
+2025-01-20,08:23:37 [DEBUG] (state.py:state:148): Collected endpoints: {}
+2025-01-20,08:23:37 [DEBUG] (base_handler.py:base_handler:115): Adding endpoint "predict_xg"
+2025-01-20,08:23:37 [DEBUG] (base_handler.py:base_handler:115): Adding/updating model predict_xg...
+2025-01-20,08:23:37 [DEBUG] (state.py:state:628): Loading option 'None' from section [Query Objects Service Versions]...
+2025-01-20,08:23:37 [DEBUG] (state.py:state:650): Returning value '[]'
+2025-01-20,08:23:37 [DEBUG] (state.py:state:148): Collected endpoints: {}
+2025-01-20,08:23:37 [DEBUG] (state.py:state:628): Loading option 'None' from section [Query Objects Service Versions]...
+2025-01-20,08:23:37 [DEBUG] (state.py:state:650): Returning value '[]'
+2025-01-20,08:23:37 [DEBUG] (state.py:state:148): Collected endpoints: {}
+2025-01-20,08:23:37 [INFO] (state.py:state:657): Writing state to config
+2025-01-20,08:23:37 [DEBUG] (util.py:util:19): State path is D:\sem6\thesis\expectedGoalsRecommendatiion\.venv\Lib\site-packages\tabpy\tabpy_server
+2025-01-20,08:23:37 [INFO] (state.py:state:657): Writing state to config
+2025-01-20,08:23:37 [DEBUG] (util.py:util:19): State path is D:\sem6\thesis\expectedGoalsRecommendatiion\.venv\Lib\site-packages\tabpy\tabpy_server
+2025-01-20,08:23:37 [INFO] (base_handler.py:base_handler:115): Loading state from state file
+2025-01-20,08:23:37 [DEBUG] (state.py:state:628): Loading option 'None' from section [Query Objects Service Versions]...
+2025-01-20,08:23:37 [DEBUG] (state.py:state:650): Returning value '['predict_xg']'
+2025-01-20,08:23:37 [DEBUG] (state.py:state:628): Loading option 'predict_xg' from section [Query Objects Service Versions]...
+2025-01-20,08:23:37 [DEBUG] (state.py:state:650): Returning value '{"description": "Predict xG using trained model", "type": "model", "version": 1, "dependencies": [], "target": null, "creation_time": 1737340717, "last_modified_time": 1737340717, "schema": null, "is_public": false}'
+2025-01-20,08:23:37 [DEBUG] (state.py:state:628): Loading option 'predict_xg' from section [Query Objects Docstrings]...
+2025-01-20,08:23:37 [DEBUG] (state.py:state:650): Returning value '-- no docstring found in query function --'
+2025-01-20,08:23:37 [DEBUG] (state.py:state:148): Collected endpoints: {'predict_xg': {'description': 'Predict xG using trained model', 'type': 'model', 'version': 1, 'dependencies': [], 'target': None, 'creation_time': 1737340717, 'last_modified_time': 1737340717, 'schema': None, 'is_public': False, 'docstring': '-- no docstring found in query function --'}}
+2025-01-20,08:23:37 [DEBUG] (state.py:state:628): Loading option 'None' from section [Query Objects Service Versions]...
+2025-01-20,08:23:37 [DEBUG] (state.py:state:650): Returning value '['predict_xg']'
+2025-01-20,08:23:37 [DEBUG] (state.py:state:628): Loading option 'predict_xg' from section [Query Objects Service Versions]...
+2025-01-20,08:23:37 [DEBUG] (state.py:state:650): Returning value '{"description": "Predict xG using trained model", "type": "model", "version": 1, "dependencies": [], "target": null, "creation_time": 1737340717, "last_modified_time": 1737340717, "schema": null, "is_public": false}'
+2025-01-20,08:23:37 [DEBUG] (state.py:state:628): Loading option 'predict_xg' from section [Query Objects Docstrings]...
+2025-01-20,08:23:37 [DEBUG] (state.py:state:650): Returning value '-- no docstring found in query function --'
+2025-01-20,08:23:37 [DEBUG] (state.py:state:148): Collected endpoints: {'predict_xg': {'description': 'Predict xG using trained model', 'type': 'model', 'version': 1, 'dependencies': [], 'target': None, 'creation_time': 1737340717, 'last_modified_time': 1737340717, 'schema': None, 'is_public': False, 'docstring': '-- no docstring found in query function --'}}
+2025-01-20,08:23:37 [DEBUG] (python_service.py:python_service:39): Received request LoadObject
+2025-01-20,08:23:37 [DEBUG] (python_service.py:python_service:53): Returning response LoadInProgress(uri='predict_xg', path='D:\\sem6\\thesis\\expectedGoalsRecommendatiion\\.venv\\Lib\\site-packages\\tabpy\\tabpy_server/query_objects/predict_xg/1', version=1, is_update=False, endpoint_type='model')
+2025-01-20,08:23:37 [INFO] (python_service.py:python_service:89): Loading object:, URI=predict_xg, URL=D:\sem6\thesis\expectedGoalsRecommendatiion\.venv\Lib\site-packages\tabpy\tabpy_server/query_objects/predict_xg/1, version=1, is_updated=False
+2025-01-20,08:23:37 [INFO] (callbacks.py:callbacks:24): Waiting for object to be loaded...
+2025-01-20,08:23:38 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:38 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:38 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:38 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:38 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:38 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:38 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:38 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:38 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:38 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:38 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:38 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:38 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:38 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:38 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:38 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:38 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:38 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:38 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:38 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:39 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:39 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:39 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:39 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:39 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:39 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:39 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:39 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:39 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:39 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:39 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:39 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:39 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:39 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:39 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:39 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:39 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:39 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:39 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:39 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:40 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:40 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:40 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:40 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:40 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:40 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:40 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:40 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:40 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:40 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:40 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:40 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:40 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:40 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:40 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:40 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:40 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:40 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:40 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:40 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:41 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:41 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:41 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:41 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:41 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:41 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:41 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:41 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:41 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:41 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:41 [DEBUG] (tpu_cluster_resolver.py:tpu_cluster_resolver:34): Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+2025-01-20,08:23:41 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:41 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:41 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:41 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:41 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:41 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:41 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:41 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:42 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:42 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:42 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:42 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:42 [DEBUG] (__init__.py:__init__:47): Creating converter from 7 to 5
+2025-01-20,08:23:42 [DEBUG] (__init__.py:__init__:47): Creating converter from 5 to 7
+2025-01-20,08:23:42 [DEBUG] (__init__.py:__init__:47): Creating converter from 7 to 5
+2025-01-20,08:23:42 [DEBUG] (__init__.py:__init__:47): Creating converter from 5 to 7
+2025-01-20,08:23:42 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:42 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:42 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:42 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:42 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:42 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:42 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:42 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:42 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:42 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:42 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:42 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:42 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:42 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:43 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:43 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:43 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:43 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:43 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:43 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:43 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:43 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:43 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:43 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:43 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:43 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:43 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:43 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:43 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:43 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:43 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:43 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:43 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:43 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:44 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:44 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:44 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:44 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:44 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:44 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:44 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:44 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:44 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:44 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:44 [DEBUG] (__init__.py:__init__:342): matplotlib data path: D:\sem6\thesis\expectedGoalsRecommendatiion\.venv\Lib\site-packages\matplotlib\mpl-data
+2025-01-20,08:23:44 [DEBUG] (__init__.py:__init__:342): CONFIGDIR=C:\Users\khadk\.matplotlib
+2025-01-20,08:23:44 [DEBUG] (__init__.py:__init__:1557): interactive is False
+2025-01-20,08:23:44 [DEBUG] (__init__.py:__init__:1558): platform is win32
+2025-01-20,08:23:44 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:44 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:44 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:44 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:44 [DEBUG] (__init__.py:__init__:342): CACHEDIR=C:\Users\khadk\.matplotlib
+2025-01-20,08:23:44 [DEBUG] (font_manager.py:font_manager:1635): Using fontManager instance from C:\Users\khadk\.matplotlib\fontlist-v390.json
+2025-01-20,08:23:44 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:44 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:44 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:44 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:45 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:45 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:45 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:45 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:45 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:45 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:45 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:45 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:45 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:45 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:45 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:45 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:45 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:45 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:45 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:45 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:46 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:46 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:46 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:46 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:46 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:46 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:46 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:46 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:46 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:46 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:46 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:46 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:46 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:46 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadInProgress', 'reason': None}})
+2025-01-20,08:23:46 [INFO] (query_object.py:query_object:80): Loaded query object "CustomQueryObject" successfully
+2025-01-20,08:23:46 [DEBUG] (python_service.py:python_service:39): Received request ListObjects
+2025-01-20,08:23:46 [DEBUG] (python_service.py:python_service:53): Returning response ObjectList(objects={'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadSuccessful', 'reason': None}})
+2025-01-20,08:23:46 [INFO] (callbacks.py:callbacks:35): Object load status: LoadSuccessful
+2025-01-20,08:23:46 [DEBUG] (base_handler.py:base_handler:115): Endpoint predict_xg successfully added
+2025-01-20,08:23:46 [DEBUG] (state.py:state:628): Loading option 'predict_xg' from section [Query Objects Service Versions]...
+2025-01-20,08:23:46 [DEBUG] (state.py:state:650): Returning value '{"description": "Predict xG using trained model", "type": "model", "version": 1, "dependencies": [], "target": null, "creation_time": 1737340717, "last_modified_time": 1737340717, "schema": null, "is_public": false}'
+2025-01-20,08:23:46 [DEBUG] (state.py:state:628): Loading option 'predict_xg' from section [Query Objects Docstrings]...
+2025-01-20,08:23:46 [DEBUG] (state.py:state:650): Returning value '-- no docstring found in query function --'
+2025-01-20,08:23:46 [DEBUG] (state.py:state:148): Collected endpoints: {'predict_xg': {'description': 'Predict xG using trained model', 'type': 'model', 'version': 1, 'dependencies': [], 'target': None, 'creation_time': 1737340717, 'last_modified_time': 1737340717, 'schema': None, 'is_public': False, 'docstring': '-- no docstring found in query function --'}}
+2025-01-20,08:23:46 [INFO] (web.py:web:2348): 201 POST /endpoints (::1) 8845.91ms
+2025-01-20,08:23:47 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2025-01-20,08:23:47 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2025-01-20,08:23:47 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2025-01-20,08:23:47 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2025-01-20,08:23:47 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2025-01-20,08:23:47 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2025-01-20,08:23:47 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2025-01-20,08:23:47 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2025-01-20,08:23:47 [DEBUG] (state.py:state:650): Returning value ''
+2025-01-20,08:23:47 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2025-01-20,08:23:47 [DEBUG] (state.py:state:650): Returning value ''
+2025-01-20,08:23:47 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2025-01-20,08:23:47 [DEBUG] (state.py:state:650): Returning value ''
+2025-01-20,08:23:47 [DEBUG] (base_handler.py:base_handler:115): Found models: {'predict_xg': {'version': 1, 'type': 'model', 'status': 'LoadSuccessful', 'last_error': None}}
+2025-01-20,08:23:47 [INFO] (web.py:web:2348): 200 GET /status (::1) 2.04ms
+2025-01-20,08:25:04 [DEBUG] (base_handler.py:base_handler:115): Checking if need to handle authentication
+2025-01-20,08:25:04 [DEBUG] (base_handler.py:base_handler:115): Handling authentication
+2025-01-20,08:25:04 [INFO] (base_handler.py:base_handler:115): Authentication is not a required feature for API "v1"
+2025-01-20,08:25:05 [DEBUG] (base_handler.py:base_handler:115): Checking request headers for authentication data
+2025-01-20,08:25:05 [INFO] (base_handler.py:base_handler:115): Authorization header not found
+2025-01-20,08:25:05 [DEBUG] (base_handler.py:base_handler:115): authentication not required, username and password are none
+2025-01-20,08:25:05 [DEBUG] (state.py:state:526): Collecting Access-Control-Allow-Origin from state file ...
+2025-01-20,08:25:05 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Origin' from section [Service Info]...
+2025-01-20,08:25:05 [DEBUG] (state.py:state:650): Returning value ''
+2025-01-20,08:25:05 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Headers' from section [Service Info]...
+2025-01-20,08:25:05 [DEBUG] (state.py:state:650): Returning value ''
+2025-01-20,08:25:05 [DEBUG] (state.py:state:628): Loading option 'Access-Control-Allow-Methods' from section [Service Info]...
+2025-01-20,08:25:05 [DEBUG] (state.py:state:650): Returning value ''
+2025-01-20,08:25:05 [DEBUG] (state.py:state:628): Loading option 'Description' from section [Service Info]...
+2025-01-20,08:25:05 [DEBUG] (state.py:state:650): Returning value ''
+2025-01-20,08:25:05 [DEBUG] (state.py:state:628): Loading option 'Creation Time' from section [Service Info]...
+2025-01-20,08:25:05 [DEBUG] (state.py:state:650): Returning value '0'
+2025-01-20,08:25:05 [DEBUG] (state.py:state:628): Loading option 'Name' from section [Service Info]...
+2025-01-20,08:25:05 [DEBUG] (state.py:state:650): Returning value 'TabPy Server'
+2025-01-20,08:25:05 [INFO] (web.py:web:2348): 200 GET /info (::1) 45.79ms
